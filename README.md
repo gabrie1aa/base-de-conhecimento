@@ -1,4 +1,4 @@
-# Imersão Dev – Catálogo de Tecnologias
+# Catálogo de Tecnologias
 
 Projeto desenvolvido durante uma imersão de desenvolvimento, com o objetivo de praticar HTML, CSS e JavaScript consumindo dados de um arquivo JSON.
 
